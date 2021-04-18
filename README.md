@@ -25,16 +25,29 @@ yarn start
 # Preview 
 
 **Home Page**
-![Home](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/home.jpg "Homepage of Aapplication")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/home.jpg" alt="Homepage of Aapplication" width="369px" height="800px">
+
 **Deck Page**
-![Deck Page](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/deck-page.jpg "Deck Page showing number of cards, and options to start quiz or add a new card")
+
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/deck-page.jpg" alt="Deck Page showing number of cards, and options to start quiz or add a new card" width="369px" height="800px">
+
+
 **Question**
-![Question](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/question.jpg "Showing Question")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/question.jpg" alt="Showing Question" width="369px" height="800px">
+
+
 **Answer**
-![Answer](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/answer.jpg "Showing Answer")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/answer.jpg" alt="Showing Answer" width="369px" height="800px">
+
+
 **Quiz Result**
-![Quiz Result](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/quiz-result.jpg "Showing the Result of the quiz")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/quiz-result.jpg" alt="Showing the Result of the quiz" width="369px" height="800px">
+
+
 **New Deck**
-![New Deck](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-deck.jpg "Creating a New Deck of Cards")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-deck.jpg" alt="Creating a New Deck of Cards" width="369px" height="800px">
+
 **New Card**
-![New Card](https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-card.jpg "Adding a New Card")
+<img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-card.jpg" alt="Adding a New Card" width="369px" height="800px">
+
+
