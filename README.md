@@ -8,6 +8,8 @@
 # Introduction
 This is a mobile flash cards app made with React Native. You can create new card decks and add cards to it.
 
+This application works on both Android and IOS, and has been tested on Android.
+
 
 ---
 # Installation
