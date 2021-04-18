@@ -25,6 +25,7 @@ yarn start
 # Preview 
 
 **Home Page**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/home.jpg" alt="Homepage of Aapplication" width="369px" height="800px">
 
 **Deck Page**
