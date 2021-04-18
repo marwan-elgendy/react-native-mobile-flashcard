@@ -34,18 +34,22 @@ yarn start
 
 
 **Question**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/question.jpg" alt="Showing Question" width="369px" height="800px">
 
 
 **Answer**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/answer.jpg" alt="Showing Answer" width="369px" height="800px">
 
 
 **Quiz Result**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/quiz-result.jpg" alt="Showing the Result of the quiz" width="369px" height="800px">
 
 
 **New Deck**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-deck.jpg" alt="Creating a New Deck of Cards" width="369px" height="800px">
 
 **New Card**
