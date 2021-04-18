@@ -53,6 +53,7 @@ yarn start
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-deck.jpg" alt="Creating a New Deck of Cards" width="369px" height="800px">
 
 **New Card**
+
 <img src="https://github.com/marwan-elgendy/react-native-mobile-flashcard/blob/main/screenshots/new-card.jpg" alt="Adding a New Card" width="369px" height="800px">
 
 
